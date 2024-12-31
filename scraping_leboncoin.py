@@ -78,7 +78,7 @@ if __name__ == "__main__":
     api_key = "scp-live-52627853b8cd46419ee61139c1efb153"
 
     # Nombre de pages à scraper
-    pages_to_scrape = 100  # Limité pour réduire les risques d'erreurs
+    pages_to_scrape = 50  # Limité pour réduire les risques d'erreurs
 
     # Exécute le scraping et sauvegarde les résultats
     ads_data = asyncio.run(scrape_leboncoin(search_url, pages_to_scrape, api_key))
