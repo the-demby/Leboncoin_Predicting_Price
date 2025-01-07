@@ -1,0 +1,7 @@
+#dataset
+leboncoin_ads_batch_1_100.json
+leboncoin_ads.json
+#environnement
+leboncoin_env/
+#notebook
+leboncoin_descriptions.ipynb
