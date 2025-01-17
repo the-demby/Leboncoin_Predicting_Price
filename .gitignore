@@ -5,4 +5,8 @@ leboncoin_ads.json
 leboncoin_env/
 #notebook
 leboncoin_descriptions.ipynb
-leboncoin.ipynb
+leboncoin_v0.ipynb
+#autres
+attributs_a_garder.txt
+catboost_info/
+        
