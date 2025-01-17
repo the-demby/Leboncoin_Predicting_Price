@@ -5,8 +5,11 @@ leboncoin_ads.json
 leboncoin_env/
 #notebook
 leboncoin_descriptions.ipynb
+<<<<<<< HEAD
 leboncoin_v0.ipynb
 #autres
 attributs_a_garder.txt
 catboost_info/
         
+=======
+>>>>>>> 271f7c089e509a43625e2529c8209d1a3332e99e
